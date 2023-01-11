@@ -1,6 +1,6 @@
 # NIRVai security
 
-- [NIRVai configuration documentation](https://github.com/nirv-ai/docs/blob/main/configs/README.md)
+- repo for security related issues
 
 ## RACExp
 
